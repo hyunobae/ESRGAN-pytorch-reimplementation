@@ -1,2 +1,6 @@
 # ESRGAN-pytorch-reimplementation
-Reimplementation of architecture of ESRGAN
+
+Ongoing..
+
+- Generator and Discriminator is finished
+
